@@ -12,7 +12,7 @@
 
 IT student building real-world web solutions with Laravel and PHP. Now diving into data analytics.
 
- &nbsp;I'm currently learning **Data Analytics (Python, pandas, and SQL)**
+&nbsp;I'm currently learning **Data Analytics (Python, pandas, and SQL)**
 
 ###  Tech Stack
 
