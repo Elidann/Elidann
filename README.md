@@ -56,4 +56,4 @@ IT student building real-world web solutions with Laravel and PHP. Now diving in
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/Elidann">Elidann</a></i></p>
+
