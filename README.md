@@ -8,23 +8,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=900&height=44&lines=3rd+Year+IT+Student+%7C+Full-Stack+Web+Developer;Aspiring+Data+Analyst+%7C+Turning+problems+into+systems" alt="Typing headlines" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elidann&style=flat-square&color=7AA2F7" alt="profile views" />
-</p>
+
 
 ---
 
-### 👋 About Me
+###  About Me
 
-- 🎓 3rd Year BSIT student based in Palawan, Philippines
-- 💻 Building real-world web solutions with **Laravel** and **PHP**
-- 📊 Currently diving into **Data Analytics** — Python, pandas, SQL, and Power BI
-- 🎯 Actively preparing a data analytics portfolio ahead of OJT
-- 📫 Reach me at **elsorafuertes@gmail.com**
+-  3rd Year BSIT student based in Palawan, Philippines
+-  Building real-world web solutions with **Laravel** and **PHP**
+-  Currently diving into **Data Analytics** — Python, pandas, SQL, and Power BI
+-  Actively preparing a data analytics portfolio ahead of OJT
+-  Reach me at **elsorafuertes@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 <p align="left">
@@ -48,7 +46,7 @@
 
 ---
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/elidan-fuertes-66542b299/" target="_blank" rel="noopener noreferrer">
@@ -61,7 +59,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Elidann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
@@ -74,7 +72,7 @@
 
 ---
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Elidann&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true" alt="activity graph" />
