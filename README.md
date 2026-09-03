@@ -70,10 +70,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elidann&theme=tokyonight&hide_border=true&background=00000000" alt="streak stats" />
 </p>
 
----
 
-###  Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Elidann&theme=tokyo-night&bg_color=00000000&hide_border=true&area=true" alt="activity graph" />
-</p>
