@@ -14,7 +14,7 @@
 -  3rd Year BSIT student based in Palawan, Philippines
 -  Building real-world web solutions with **Laravel** and **PHP**
 -  Currently diving into **Data Analytics** — Python, pandas, SQL, and Power BI
--  Reach me at **elsorafuertes@gmail.com**
+
 
 ---
 
@@ -42,11 +42,9 @@
 
 ## Currently Learning
  
-I'm splitting my time across three tracks right now:
- 
-- **Web Development** — deepening my Laravel skills beyond the basics (queues, testing, API resources).
+- **Web Development** — Improving my Laravel skills (queues, testing, API resources).
 - **Data Analytics** — Power BI dashboards and data modeling, SQL query writing and optimization, and using pandas for data cleaning
-- **Cloud Engineering** — just getting started here, exploring AWS fundamentals (S3, Lambda, CloudFront) as a side track alongside data analytics
+- **Cloud Engineering** — Exploring AWS fundamentals (S3, Lambda, CloudFront) as a side track alongside data analytics
 
 ## GitHub Stats
 
