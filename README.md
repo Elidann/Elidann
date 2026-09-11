@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&fontColor=ffffff&fontSize=48&fontAlignY=38&height=150&width=100%25&text=Hello!%20I%20am%20Elidan!" alt="Hello! I am Elidan!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&fontColor=ffffff&fontSize=48&fontAlignY=38&height=150&width=100%25&text="  />
 </p>
 
 <h3 align="center">3rd Year BSIT Student · Palawan, Philippines</h3>
